@@ -1,0 +1,7 @@
+{
+  "name": "@components-studio/modster.sveltecso-lj7rf644",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx cso-cli@latest serve wPBoz8MqfTdJt1AIA2B5 --open"
+  }
+}
